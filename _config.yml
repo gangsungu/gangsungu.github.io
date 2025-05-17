@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 흐르는 기억을 붙잡아 기억하자 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 백엔드 개발자 강선구입니다. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
